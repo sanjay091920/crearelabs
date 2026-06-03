@@ -1,0 +1,108 @@
+{
+  "brand": {
+    "name": "Crearelabs",
+    "tagline": "Tech. Creative. Growth.",
+    "phone": "+91 8448807923",
+    "whatsapp": "918448807923",
+    "email": "ahirwarsanjay0901@gmail.com",
+    "address": "Noida, Uttar Pradesh, India",
+    "founded": "2022",
+    "instagram": "https://instagram.com/crearelabs",
+    "linkedin": "https://linkedin.com/company/crearelabs"
+  },
+  "stats": [
+    { "value": "3×",   "label": "Avg revenue growth", "sub": "Restaurant clients in 6 months" },
+    { "value": "18+",  "label": "Cities served",       "sub": "Across North India" },
+    { "value": "150+", "label": "Brands launched",     "sub": "Products and F&B" },
+    { "value": "97%",  "label": "Retention rate",      "sub": "Annual retainer clients" }
+  ],
+  "testimonials": [
+    { "name": "Rahul Sharma", "role": "Owner, The Spice Route, Noida",       "icon": "🍽️", "quote": "Our Zomato ratings went from 3.8 to 4.5 in 3 months. Footfall doubled. Crearelabs actually understands restaurants." },
+    { "name": "Priya Gupta",  "role": "Founder, SnackCo — D2C Snacks Brand", "icon": "📦", "quote": "We launched on Amazon and our own site simultaneously. Month 3 we crossed ₹10L/month. The launch playbook was excellent." },
+    { "name": "Amit Verma",   "role": "Director, FashionHub Retail",          "icon": "🛒", "quote": "SEO traffic tripled in 4 months. The weekly reporting is incredibly transparent — we always know where every rupee goes." }
+  ],
+  "faqs": [
+    { "q": "How long before we see results?",              "a": "For restaurants, Google Maps + review velocity improvements show within 30–45 days. Paid ad funnels can drive measurable footfall in week 2. Product brands usually see meaningful D2C growth in 60–90 days." },
+    { "q": "Do you only work with restaurants?",           "a": "No — restaurants and product brands are our deepest specialties, but we work with any business. We have dedicated playbooks for e-commerce, retail, and healthcare too." },
+    { "q": "What is the minimum investment?",              "a": "Retainers start at ₹25,000/month for foundational SEO + GBP. Full performance marketing engagements start at ₹50,000/month inclusive of ad spend management." },
+    { "q": "Do you guarantee rankings or lead numbers?",   "a": "We don't guarantee specific rankings — no ethical agency does. We commit to transparent weekly reporting, clear KPIs agreed upfront, and a process built around compounding growth." },
+    { "q": "Can we work with you if we're outside Noida?", "a": "Yes. Our core market is the NCR, but we work with clients across India remotely. Discovery calls are 100% online." },
+    { "q": "How is industry-aware marketing different?",   "a": "Generic agencies apply the same playbook to every client. We calibrate everything — platform mix, ad creative style, compliance posture, and reporting metrics — to your specific industry's buying cycle." }
+  ],
+  "blog_posts": [
+    {
+      "slug": "restaurant-seo-guide-2024",
+      "title": "The Complete Restaurant SEO Guide for 2024",
+      "excerpt": "How Noida restaurants can dominate Google Maps and Zomato search with a locality-first SEO strategy.",
+      "category": "Restaurant & F&B",
+      "date": "15 Mar 2024",
+      "readTime": "6 min read",
+      "icon": "🍽️",
+      "featured": true,
+      "content": "Restaurant SEO is fundamentally different from standard SEO. Your customers are searching within a 3–5 km radius, they're hungry right now, and they're comparing you against 10 other listings simultaneously.\n\n**1. Own your Google Business Profile**\n\nYour GBP is the single most important real estate in local search. Fill every field, add photos weekly, respond to every review within 24 hours.\n\n**2. Build review velocity, not just review count**\n\nGoogle's local algorithm rewards recency. 50 reviews from last month beat 500 reviews from 3 years ago.\n\n**3. Menu-led keyword strategy**\n\nYour menu items are your keywords. 'Butter chicken near me', 'best biryani in Noida Sector 18' — these are real queries your customers type.\n\n**4. Zomato & Swiggy listing optimisation**\n\nYour delivery platform listing is a search engine too. Photos, descriptions, and response time all affect your ranking."
+    },
+    {
+      "slug": "d2c-product-launch-playbook",
+      "title": "The D2C Product Launch Playbook: From Zero to ₹10L/Month",
+      "excerpt": "A step-by-step framework for launching a D2C product brand in India — from pre-launch to month 3 and beyond.",
+      "category": "Product Brands",
+      "date": "28 Feb 2024",
+      "readTime": "8 min read",
+      "icon": "📦",
+      "featured": true,
+      "content": "Launching a D2C product in India has never been more accessible — or more competitive.\n\n**Pre-Launch (8 weeks before)**\n\nBuild your audience before you have a product to sell. Start content on Instagram and YouTube. Run a waitlist campaign.\n\n**Launch Week**\n\nDon't launch on all channels simultaneously. Start with your own D2C site and one marketplace.\n\n**Month 1: Data over everything**\n\nThe first month is about learning, not scaling. Which product variant sells? Which ad creative wins?\n\n**Month 2–3: Scale what works**\n\nOnce you have data, double down. Scale the winning ad creative and expand to the next marketplace."
+    },
+    {
+      "slug": "google-maps-ranking-factors",
+      "title": "Google Maps Ranking Factors for Local Businesses in 2024",
+      "excerpt": "The three pillars of Google Maps ranking — relevance, distance, and prominence — and how to optimise each one.",
+      "category": "SEO",
+      "date": "10 Feb 2024",
+      "readTime": "5 min read",
+      "icon": "📍",
+      "featured": false,
+      "content": "Google Maps uses three core factors to rank local businesses: relevance, distance, and prominence.\n\n**Relevance**\n\nHow well does your business match the search query? This is influenced by your business category, GBP description, and the keywords in your reviews.\n\n**Distance**\n\nHow close is your business to the searcher? You can expand your relevance radius by targeting location-specific keywords.\n\n**Prominence**\n\nHow well-known is your business? This is determined by your review count and rating, photos, and overall online presence."
+    }
+  ],
+  "jobs": [
+    {
+      "slug": "performance-marketing-manager",
+      "title": "Performance Marketing Manager",
+      "department": "Marketing",
+      "location": "Noida (Hybrid)",
+      "type": "Full-time",
+      "experience": "2–4 years",
+      "salary": "₹6–10 LPA",
+      "active": true,
+      "desc": "We're looking for a performance marketer who lives and breathes ROAS. You'll manage paid campaigns across Meta, Google, and marketplace platforms.",
+      "responsibilities": ["Manage Meta and Google Ads campaigns across 10+ clients", "Build and optimise conversion funnels for D2C brands", "Run Zomato and Swiggy ad campaigns", "Weekly reporting with business-value metrics", "A/B test creatives and landing pages"],
+      "requirements": ["2–4 years in performance marketing", "Hands-on experience with Meta Ads Manager and Google Ads", "Strong analytical skills", "Experience with e-commerce or F&B brands preferred", "Excellent written and verbal communication"]
+    },
+    {
+      "slug": "seo-content-strategist",
+      "title": "SEO & Content Strategist",
+      "department": "SEO",
+      "location": "Noida (Hybrid)",
+      "type": "Full-time",
+      "experience": "1–3 years",
+      "salary": "₹4–7 LPA",
+      "active": true,
+      "desc": "We need an SEO strategist who understands that local search and industry-specific content are fundamentally different from generic keyword stuffing.",
+      "responsibilities": ["Build locality-anchored SEO strategies for restaurant and product brand clients", "Write and edit blog content and on-page copy", "Technical SEO audits and implementation", "Google Business Profile management", "Monthly and weekly SEO reporting"],
+      "requirements": ["1–3 years in SEO, ideally with local businesses", "Strong writing skills in English", "Experience with tools like Ahrefs, SEMrush, or Moz", "Understanding of Google Business Profile optimisation", "Ability to produce 4–6 pieces of content per week"]
+    },
+    {
+      "slug": "frontend-engineer-react",
+      "title": "Frontend Engineer (React)",
+      "department": "Engineering",
+      "location": "Noida / Remote",
+      "type": "Full-time",
+      "experience": "2–5 years",
+      "salary": "₹8–16 LPA",
+      "active": true,
+      "desc": "Build the customer-facing products our clients run their businesses on — ordering systems, loyalty apps, dashboards, and brand websites.",
+      "responsibilities": ["Build React-based web applications for client projects", "Implement responsive, accessible UI from design files", "Integrate REST and GraphQL APIs", "Work closely with backend engineers and designers", "Participate in code reviews and architecture discussions"],
+      "requirements": ["2–5 years in frontend development", "Strong proficiency in React and JavaScript/TypeScript", "Experience with Tailwind CSS or styled-components", "Understanding of performance optimisation and Core Web Vitals", "Portfolio of shipped products"]
+    }
+  ]
+}
