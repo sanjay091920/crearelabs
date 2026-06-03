@@ -11,23 +11,72 @@
     "linkedin": "https://linkedin.com/company/crearelabs"
   },
   "stats": [
-    { "value": "3×",   "label": "Avg revenue growth", "sub": "Restaurant clients in 6 months" },
-    { "value": "18+",  "label": "Cities served",       "sub": "Across North India" },
-    { "value": "150+", "label": "Brands launched",     "sub": "Products and F&B" },
-    { "value": "97%",  "label": "Retention rate",      "sub": "Annual retainer clients" }
+    {
+      "value": "3×",
+      "label": "Avg revenue growth",
+      "sub": "Restaurant clients in 6 months"
+    },
+    {
+      "value": "18+",
+      "label": "Cities served",
+      "sub": "Across North India"
+    },
+    {
+      "value": "150+",
+      "label": "Brands launched",
+      "sub": "Products and F&B"
+    },
+    {
+      "value": "97%",
+      "label": "Retention rate",
+      "sub": "Annual retainer clients"
+    }
   ],
   "testimonials": [
-    { "name": "Rahul Sharma", "role": "Owner, The Spice Route, Noida",       "icon": "🍽️", "quote": "Our Zomato ratings went from 3.8 to 4.5 in 3 months. Footfall doubled. Crearelabs actually understands restaurants." },
-    { "name": "Priya Gupta",  "role": "Founder, SnackCo — D2C Snacks Brand", "icon": "📦", "quote": "We launched on Amazon and our own site simultaneously. Month 3 we crossed ₹10L/month. The launch playbook was excellent." },
-    { "name": "Amit Verma",   "role": "Director, FashionHub Retail",          "icon": "🛒", "quote": "SEO traffic tripled in 4 months. The weekly reporting is incredibly transparent — we always know where every rupee goes." }
+    {
+      "name": "Rahul Sharma",
+      "role": "Owner, The Spice Route, Noida",
+      "icon": "🍽️",
+      "quote": "Our Zomato ratings went from 3.8 to 4.5 in 3 months. Footfall doubled. Crearelabs actually understands restaurants."
+    },
+    {
+      "name": "Priya Gupta",
+      "role": "Founder, SnackCo — D2C Snacks Brand",
+      "icon": "📦",
+      "quote": "We launched on Amazon and our own site simultaneously. Month 3 we crossed ₹10L/month. The launch playbook was excellent."
+    },
+    {
+      "name": "Amit Verma",
+      "role": "Director, FashionHub Retail",
+      "icon": "🛒",
+      "quote": "SEO traffic tripled in 4 months. The weekly reporting is incredibly transparent — we always know where every rupee goes."
+    }
   ],
   "faqs": [
-    { "q": "How long before we see results?",              "a": "For restaurants, Google Maps + review velocity improvements show within 30–45 days. Paid ad funnels can drive measurable footfall in week 2. Product brands usually see meaningful D2C growth in 60–90 days." },
-    { "q": "Do you only work with restaurants?",           "a": "No — restaurants and product brands are our deepest specialties, but we work with any business. We have dedicated playbooks for e-commerce, retail, and healthcare too." },
-    { "q": "What is the minimum investment?",              "a": "Retainers start at ₹25,000/month for foundational SEO + GBP. Full performance marketing engagements start at ₹50,000/month inclusive of ad spend management." },
-    { "q": "Do you guarantee rankings or lead numbers?",   "a": "We don't guarantee specific rankings — no ethical agency does. We commit to transparent weekly reporting, clear KPIs agreed upfront, and a process built around compounding growth." },
-    { "q": "Can we work with you if we're outside Noida?", "a": "Yes. Our core market is the NCR, but we work with clients across India remotely. Discovery calls are 100% online." },
-    { "q": "How is industry-aware marketing different?",   "a": "Generic agencies apply the same playbook to every client. We calibrate everything — platform mix, ad creative style, compliance posture, and reporting metrics — to your specific industry's buying cycle." }
+    {
+      "q": "How long before we see results?",
+      "a": "For restaurants, Google Maps + review velocity improvements show within 30–45 days. Paid ad funnels can drive measurable footfall in week 2. Product brands usually see meaningful D2C growth in 60–90 days."
+    },
+    {
+      "q": "Do you only work with restaurants?",
+      "a": "No — restaurants and product brands are our deepest specialties, but we work with any business. We have dedicated playbooks for e-commerce, retail, and healthcare too."
+    },
+    {
+      "q": "What is the minimum investment?",
+      "a": "Retainers start at ₹25,000/month for foundational SEO + GBP. Full performance marketing engagements start at ₹50,000/month inclusive of ad spend management."
+    },
+    {
+      "q": "Do you guarantee rankings or lead numbers?",
+      "a": "We don't guarantee specific rankings — no ethical agency does. We commit to transparent weekly reporting, clear KPIs agreed upfront, and a process built around compounding growth."
+    },
+    {
+      "q": "Can we work with you if we're outside Noida?",
+      "a": "Yes. Our core market is the NCR, but we work with clients across India remotely. Discovery calls are 100% online."
+    },
+    {
+      "q": "How is industry-aware marketing different?",
+      "a": "Generic agencies apply the same playbook to every client. We calibrate everything — platform mix, ad creative style, compliance posture, and reporting metrics — to your specific industry's buying cycle."
+    }
   ],
   "blog_posts": [
     {
@@ -62,6 +111,17 @@
       "icon": "📍",
       "featured": false,
       "content": "Google Maps uses three core factors to rank local businesses: relevance, distance, and prominence.\n\n**Relevance**\n\nHow well does your business match the search query? This is influenced by your business category, GBP description, and the keywords in your reviews.\n\n**Distance**\n\nHow close is your business to the searcher? You can expand your relevance radius by targeting location-specific keywords.\n\n**Prominence**\n\nHow well-known is your business? This is determined by your review count and rating, photos, and overall online presence."
+    },
+    {
+      "slug": "restaurant-digital-marketing-in-2026-the-complete-guide-to-increasing-online-orders-and-table-reservations",
+      "title": "Restaurant Digital Marketing in 2026: The Complete Guide to Increasing Online Orders and Table Reservations",
+      "excerpt": "Learn how restaurant owners can increase online orders, improve Google rankings, attract more customers, and boost revenue using proven digital marketing strategies in 2026.",
+      "content": "Restaurant Digital Marketing in 2026: The Complete Guide\n\nThe restaurant industry has become more competitive than ever. Customers now search online before deciding where to eat, making digital marketing an essential part of restaurant growth. Whether you own a fine-dining restaurant, cafe, cloud kitchen, or fast-food chain, implementing the right digital marketing strategies can significantly increase your revenue.\n\n## Why Digital Marketing Matters for Restaurants\n\nMore than 90% of customers search online before visiting a restaurant. They check Google reviews, social media profiles, menus, photos, and customer feedback before making a decision.\n\nRestaurants with a strong online presence experience:\n\n* Higher table reservations\n* Increased online food orders\n* Better customer retention\n* Stronger brand awareness\n* Higher revenue growth\n\n## Optimize Your Google Business Profile\n\nA fully optimized Google Business Profile is the foundation of local restaurant SEO.\n\n### Key Optimization Steps\n\n* Add accurate business information\n* Upload high-quality food photos\n* Update operating hours regularly\n* Add menu links\n* Encourage customer reviews\n* Respond to all reviews professionally\n\nGoogle uses these signals to rank restaurants in local search results.\n\n## Restaurant SEO Best Practices\n\nSearch Engine Optimization (SEO) helps your restaurant appear when customers search for:\n\n* Best restaurants near me\n* Family restaurants in [City]\n* Best cafes in [Location]\n* Fine dining restaurants nearby\n* Food delivery services in [Area]\n\n### Important SEO Factors\n\n#### 1. Keyword Optimization\n\nUse keywords naturally throughout your website:\n\n* Best restaurant in [City]\n* Restaurant near me\n* Online food delivery\n* Family dining restaurant\n* Fine dining experience\n\n#### 2. Mobile-Friendly Website\n\nMost restaurant searches happen on smartphones. Ensure your website loads quickly and provides a smooth mobile experience.\n\n#### 3. Local Landing Pages\n\nCreate dedicated pages targeting specific locations to improve local rankings.\n\n## Social Media Marketing for Restaurants\n\nSocial media plays a major role in customer engagement and brand visibility.\n\n### Instagram Marketing Tips\n\n* Post food photography daily\n* Share customer testimonials\n* Upload behind-the-scenes content\n* Create engaging reels\n* Promote special offers\n\n### Facebook Marketing\n\nFacebook remains effective for:\n\n* Local promotions\n* Event marketing\n* Customer engagement\n* Community building\n\n### Video Content Strategy\n\nVideo content receives significantly more engagement than static images.\n\nPopular restaurant video ideas include:\n\n* Chef special preparations\n* Kitchen tours\n* Customer reviews\n* Food plating videos\n* Staff introductions\n\n## Online Reputation Management\n\nCustomer reviews directly impact restaurant success.\n\n### How to Get More Positive Reviews\n\n* Ask satisfied customers for feedback\n* Use QR codes for review collection\n* Follow up after dining experiences\n* Respond promptly to customer concerns\n\nA higher review rating often leads to increased reservations and online orders.\n\n## Food Delivery Platform Optimization\n\nRestaurants should optimize their profiles on delivery platforms.\n\n### Optimization Checklist\n\n* Professional food photography\n* Detailed menu descriptions\n* Competitive pricing\n* Fast response times\n* Accurate delivery estimates\n\nThese factors improve visibility and conversion rates.\n\n## Email Marketing for Restaurants\n\nEmail marketing remains one of the highest ROI channels.\n\n### Effective Email Campaigns\n\n* Birthday offers\n* Seasonal promotions\n* New menu launches\n* Loyalty rewards\n* Special event invitations\n\nRegular communication helps retain customers and increase repeat business.\n\n## Loyalty Programs and Customer Retention\n\nAcquiring new customers costs significantly more than retaining existing ones.\n\n### Successful Loyalty Program Ideas\n\n* Points-based rewards\n* Exclusive member discounts\n* VIP dining experiences\n* Referral bonuses\n* Birthday rewards\n\nThese programs encourage repeat visits and higher customer lifetime value.\n\n## AI and Automation in Restaurant Marketing\n\nArtificial Intelligence is transforming restaurant operations.\n\n### AI-Powered Solutions\n\n* Chatbots for reservations\n* Automated customer support\n* Personalized promotions\n* Predictive inventory management\n* Customer behavior analysis\n\nRestaurants adopting AI gain a competitive advantage and improve operational efficiency.\n\n## Restaurant Website Features You Must Have\n\nEvery restaurant website should include:\n\n### Essential Features\n\n* Online reservation system\n* Digital menu\n* Contact information\n* Google Maps integration\n* Online ordering\n* Customer reviews\n* Social media links\n* Mobile responsiveness\n\nThese features improve user experience and increase conversions.\n\n## Common Restaurant Marketing Mistakes\n\nAvoid these costly mistakes:\n\n* Ignoring online reviews\n* Posting inconsistent content\n* Having an outdated website\n* Poor food photography\n* Neglecting local SEO\n* Not tracking marketing performance\n\nCorrecting these issues can dramatically improve business results.\n\n## Future of Restaurant Marketing\n\nThe future belongs to restaurants that embrace technology, customer experience, and data-driven marketing. Businesses that combine SEO, social media marketing, online reputation management, and AI-powered automation will continue to dominate local markets.\n\n## Conclusion\n\nRestaurant marketing in 2026 is no longer optional. Customers discover, evaluate, and choose restaurants online. By investing in SEO, social media, customer reviews, website optimization, and digital advertising, restaurants can increase visibility, attract more customers, and maximize revenue.\n\nIf you want your restaurant to grow consistently, start implementing these strategies today and build a strong digital presence that converts online visitors into loyal customers.\n\n Restaurant SEO, Restaurant Digital Marketing, Local SEO for Restaurants, Online Food Orders, Restaurant Website Design, Google Business Profile Optimization, Restaurant Social Media Marketing, Food Delivery Marketing, Restaurant Growth Strategy, Restaurant Marketing 2026.\n",
+      "category": "Restaurant & F&B",
+      "date": "03 Jun 2026",
+      "readTime": "5 min read",
+      "icon": "🍽️",
+      "featured": false
     }
   ],
   "jobs": [
@@ -75,8 +135,20 @@
       "salary": "₹6–10 LPA",
       "active": true,
       "desc": "We're looking for a performance marketer who lives and breathes ROAS. You'll manage paid campaigns across Meta, Google, and marketplace platforms.",
-      "responsibilities": ["Manage Meta and Google Ads campaigns across 10+ clients", "Build and optimise conversion funnels for D2C brands", "Run Zomato and Swiggy ad campaigns", "Weekly reporting with business-value metrics", "A/B test creatives and landing pages"],
-      "requirements": ["2–4 years in performance marketing", "Hands-on experience with Meta Ads Manager and Google Ads", "Strong analytical skills", "Experience with e-commerce or F&B brands preferred", "Excellent written and verbal communication"]
+      "responsibilities": [
+        "Manage Meta and Google Ads campaigns across 10+ clients",
+        "Build and optimise conversion funnels for D2C brands",
+        "Run Zomato and Swiggy ad campaigns",
+        "Weekly reporting with business-value metrics",
+        "A/B test creatives and landing pages"
+      ],
+      "requirements": [
+        "2–4 years in performance marketing",
+        "Hands-on experience with Meta Ads Manager and Google Ads",
+        "Strong analytical skills",
+        "Experience with e-commerce or F&B brands preferred",
+        "Excellent written and verbal communication"
+      ]
     },
     {
       "slug": "seo-content-strategist",
@@ -88,8 +160,20 @@
       "salary": "₹4–7 LPA",
       "active": true,
       "desc": "We need an SEO strategist who understands that local search and industry-specific content are fundamentally different from generic keyword stuffing.",
-      "responsibilities": ["Build locality-anchored SEO strategies for restaurant and product brand clients", "Write and edit blog content and on-page copy", "Technical SEO audits and implementation", "Google Business Profile management", "Monthly and weekly SEO reporting"],
-      "requirements": ["1–3 years in SEO, ideally with local businesses", "Strong writing skills in English", "Experience with tools like Ahrefs, SEMrush, or Moz", "Understanding of Google Business Profile optimisation", "Ability to produce 4–6 pieces of content per week"]
+      "responsibilities": [
+        "Build locality-anchored SEO strategies for restaurant and product brand clients",
+        "Write and edit blog content and on-page copy",
+        "Technical SEO audits and implementation",
+        "Google Business Profile management",
+        "Monthly and weekly SEO reporting"
+      ],
+      "requirements": [
+        "1–3 years in SEO, ideally with local businesses",
+        "Strong writing skills in English",
+        "Experience with tools like Ahrefs, SEMrush, or Moz",
+        "Understanding of Google Business Profile optimisation",
+        "Ability to produce 4–6 pieces of content per week"
+      ]
     },
     {
       "slug": "frontend-engineer-react",
@@ -101,8 +185,20 @@
       "salary": "₹8–16 LPA",
       "active": true,
       "desc": "Build the customer-facing products our clients run their businesses on — ordering systems, loyalty apps, dashboards, and brand websites.",
-      "responsibilities": ["Build React-based web applications for client projects", "Implement responsive, accessible UI from design files", "Integrate REST and GraphQL APIs", "Work closely with backend engineers and designers", "Participate in code reviews and architecture discussions"],
-      "requirements": ["2–5 years in frontend development", "Strong proficiency in React and JavaScript/TypeScript", "Experience with Tailwind CSS or styled-components", "Understanding of performance optimisation and Core Web Vitals", "Portfolio of shipped products"]
+      "responsibilities": [
+        "Build React-based web applications for client projects",
+        "Implement responsive, accessible UI from design files",
+        "Integrate REST and GraphQL APIs",
+        "Work closely with backend engineers and designers",
+        "Participate in code reviews and architecture discussions"
+      ],
+      "requirements": [
+        "2–5 years in frontend development",
+        "Strong proficiency in React and JavaScript/TypeScript",
+        "Experience with Tailwind CSS or styled-components",
+        "Understanding of performance optimisation and Core Web Vitals",
+        "Portfolio of shipped products"
+      ]
     }
   ]
 }
